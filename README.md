@@ -46,7 +46,7 @@ Smooth Navigation
 The use of a navigation bar with scroll-linked buttons ensures that visitors can seamlessly move across sections. Transitions and animations are handled using libraries like Framer Motion.
 
 Technologies Used
-Frontend: HTML, CSS, JavaScript, React.js
+Frontend: HTML, CSS, JavaScript
 
 Styling: Tailwind CSS or custom CSS
 
