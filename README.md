@@ -61,7 +61,4 @@ The Personal Portfolio Website is not just a showcase of technical skills—it i
 
 
 
-# OUTPUT - 
-![Image](https://github.com/user-attachments/assets/cd691fec-5edc-47d8-8d7d-6cf7923a824e)
-
 
