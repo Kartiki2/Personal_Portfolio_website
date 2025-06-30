@@ -60,5 +60,7 @@ Conclusion
 The Personal Portfolio Website is not just a showcase of technical skills—it is a personal branding platform. With a clean design, functional layout, and engaging user experience, it enables the developer to leave a lasting impression on visitors. It is an essential tool for job applications, freelance opportunities, and networking, and can easily be updated as the individual progresses in their career.
 
 
+OUTPUT
+![WhatsApp Image 2025-07-01 at 01 50 50_89270191](https://github.com/user-attachments/assets/6b82b160-8d16-421c-9c43-e7481a73b1d4)
 
 
